@@ -1,0 +1,16 @@
+# Generated data splits (regenerate by running the S1/S2 notebooks)
+data/
+
+# MLflow tracking (local backend — optional to keep out of git, per TP instructions)
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
